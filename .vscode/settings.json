@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\Envs\\my_django_environment\\Scripts\\python.exe",
+    "python.formatting.provider": "yapf"
+}
